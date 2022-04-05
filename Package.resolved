@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "unicocheckios-spm",
+        "repositoryURL": "https://github.com/acesso-io/unico-check-ios",
+        "state": {
+          "branch": null,
+          "revision": "c00e9b0fa85cd2ee27dcfb67fc0ff661877ed1ee",
+          "version": "2.1.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
